@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "hi"
+msgstr "привет"
+
+msgid "bye"
+msgstr "пока"
